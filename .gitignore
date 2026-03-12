@@ -1,0 +1,7 @@
+*.o
+*.a
+obj/
+book_filter
+*~
+*.swp
+data/output.txt
